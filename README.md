@@ -1,2 +1,2 @@
-#unfinished backgammon
-##without AI
+# unfinished backgammon
+## without AI
